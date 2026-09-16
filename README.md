@@ -15,13 +15,13 @@
 
 ## 🧭 About
 
-```yaml
-role: B.Tech Computer Science Student
-focus: Software Engineering (Data/AI track)
-building: Full Stack Web Apps + DSA Fundamentals
-goal: Land a strong SDE role
-mindset: Consistency compounds — daily commits over sporadic sprints
-```
+<table width="100%">
+<tr><td width="30%">🎓 <b>Role</b></td><td>B.Tech Computer Science Student</td></tr>
+<tr><td>🧩 <b>Focus</b></td><td>Software Engineering — Data/AI track</td></tr>
+<tr><td>🏗️ <b>Building</b></td><td>Full Stack Web Apps + DSA Fundamentals</td></tr>
+<tr><td>🎯 <b>Goal</b></td><td>Land a strong SDE role</td></tr>
+<tr><td>🔁 <b>Mindset</b></td><td>Consistency compounds — daily commits over sporadic sprints</td></tr>
+</table>
 
 <br/>
 
@@ -105,12 +105,10 @@ Ongoing daily-solve repo tracking progress through Striver's A2Z DSA Sheet, with
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Noah-sam&show_icons=true&theme=cobalt&hide_border=true&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-sam&layout=compact&theme=cobalt&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Noah-sam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-sam&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Noah-sam&theme=cobalt-dark&hide_border=true"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Noah-sam&theme=discord&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Noah-sam&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -120,7 +118,7 @@ Ongoing daily-solve repo tracking progress through Striver's A2Z DSA Sheet, with
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Noah-sam&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Noah-sam&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
