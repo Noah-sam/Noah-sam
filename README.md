@@ -1,147 +1,133 @@
 <div align="center">
 
-# 👋 Hi, I'm Noah
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A66C2,100:00C6FF&height=180&section=header&text=NOAH&fontSize=70&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20SDE%20Aspirant&descAlignY=62&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;SDE+Aspirant;DSA+%2B+Java+Enthusiast;Always+Building+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=00C6FF&center=true&vCenter=true&width=600&lines=Building+with+React+%2B+Node.js;Solving+DSA+in+Java+daily;Turning+ideas+into+shipped+code"/>
 
-<img src="https://komarev.com/ghpvc/?username=Noah-sam&label=Profile+Views&color=0A66C2&style=for-the-badge"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Noah-sam&label=Profile+Views&color=0A66C2&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/Noah-sam?label=Followers&style=flat-square&color=0A66C2"/>
 
 </div>
 
----
+<br/>
 
-# 💫 About Me
+## 🧭 About
 
-🎓 **B.Tech Computer Science Student** (Software Engineering, Data/AI focus)
-
-💻 Passionate about **Full Stack Development**
-
-🧩 Sharpening problem-solving with **DSA in Java**
-
-🎯 Goal: **Land a strong SDE role**
-
-🌱 Currently Learning
-
-- Full Stack Development (React + Node.js + PostgreSQL)
-- Data Structures & Algorithms (Striver's A2Z Sheet)
-- System Design fundamentals
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/noah-sam-watkins-6ba545365">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:noahsam1324watkins@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Noah-sam">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,py"/>
-
-</p>
-
-### Frameworks & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,git,github,vscode"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🚧 **Smart Pothole Detection App** | Sensor-assisted pothole detection & automated citizen reporting for GVMC — Expo/React Native + Node.js/Express + PostgreSQL, with a live map and confidence-scoring engine |
-| 🗓️ **Smart Scheduler** | Smart Classroom & Automated Timetable Scheduler built for Smart India Hackathon (SIH) — React 19 + TypeScript + Vite, with conflict detection, role-based dashboards, and Excel export |
-| 🎯 **Career Mentor App** | Full-stack career mentor platform with AI-powered personalization — React + Node.js + PostgreSQL |
-| 📚 **DSA Solutions** | Java solutions following Striver's A2Z DSA Sheet, with daily commit consistency |
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Noah-sam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-sam&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Noah-sam&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🛠 Currently Working On
-
-- 🚧 Smart Pothole Detection App (hackathon build)
-- 🗓️ Smart Scheduler (SIH hackathon build)
-- 🎯 Career Mentor App (portfolio project)
-- 📚 Daily DSA practice in Java
-
----
-
-# 📚 Currently Learning
-
-```text
-DSA (Java)              ██████░░░░░░ 50%
-
-Full Stack Development  █████░░░░░░░ 45%
-
-System Design           ███░░░░░░░░░ 25%
-
-Git/GitHub Workflows    ████████░░░░ 70%
+```yaml
+role: B.Tech Computer Science Student
+focus: Software Engineering (Data/AI track)
+building: Full Stack Web Apps + DSA Fundamentals
+goal: Land a strong SDE role
+mindset: Consistency compounds — daily commits over sporadic sprints
 ```
 
----
+<br/>
 
-# ⚡ Fun Facts
+## 🛠️ Tech Arsenal
 
-- 🎮 I enjoy gaming outside academics.
-- 🧠 I believe consistent daily practice beats last-minute cramming.
-- 🚀 I like building projects that solve real, local problems.
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
+**Languages**
 
-# 💡 Favorite Quote
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,py&theme=dark"/>
 
-> **"Consistency compounds."**
+</td>
+<td valign="top" width="50%">
 
----
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,git,github,vscode&theme=dark"/>
+
+</td>
+</tr>
+</table>
+
+| Skill | Confidence |
+|---|---|
+| Java / DSA | ▰▰▰▰▰▰▱▱▱▱ 60% |
+| React + Node.js | ▰▰▰▰▰▱▱▱▱▱ 50% |
+| PostgreSQL | ▰▰▰▰▱▱▱▱▱▱ 40% |
+| System Design | ▰▰▰▱▱▱▱▱▱▱ 30% |
+
+<br/>
+
+## 🚀 Featured Builds
+
+<details open>
+<summary><b>🚧 Smart Pothole Detection App</b> — GVMC hackathon project</summary>
+<br/>
+
+Sensor-assisted pothole detection & automated citizen reporting. Combines live accelerometer/gyroscope/GPS monitoring with citizen photo reports and a backend confidence-scoring engine to verify potholes on a live map.
+
+`Expo (React Native)` `Node.js` `Express` `PostgreSQL` `Prisma` `OpenStreetMap`
+
+</details>
+
+<details>
+<summary><b>🗓️ Smart Scheduler</b> — Smart India Hackathon (SIH) project</summary>
+<br/>
+
+Smart Classroom & Automated Timetable Scheduler with clash-free auto-generation, versioned approval workflow, and role-based dashboards for admins, lecturers, and students.
+
+`React 19` `TypeScript` `Vite` `Tailwind CSS` `SheetJS`
+
+**Repo:** [SIH-timetable-scheduler-project-code-genisis](https://github.com/Noah-sam/SIH-timetable-scheduler-project-code-genisis)
+
+</details>
+
+<details>
+<summary><b>🎯 Career Mentor App</b> — placement portfolio project</summary>
+<br/>
+
+Full-stack career mentor platform with an AI-powered personalization layer, built as a placement-ready portfolio piece.
+
+`React` `Node.js` `PostgreSQL`
+
+</details>
+
+<details>
+<summary><b>📚 DSA Solutions</b> — Striver's A2Z Sheet in Java</summary>
+<br/>
+
+Ongoing daily-solve repo tracking progress through Striver's A2Z DSA Sheet, with a focus on commit consistency.
+
+`Java`
+
+</details>
+
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Noah-sam&show_icons=true&theme=cobalt&hide_border=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-sam&layout=compact&theme=cobalt&hide_border=true"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Noah-sam&theme=cobalt-dark&hide_border=true"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Noah-sam&theme=discord&no-frame=true&row=1&column=6"/>
+
+</div>
+
+<br/>
+
+## 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Noah-sam&theme=react-dark&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C6FF,100:0A66C2&height=100&section=footer"/>
 
 </div>
